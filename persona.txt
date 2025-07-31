@@ -1,0 +1,7 @@
+m,a,r,c,o,Miembro
+j,u,l,i,o,Entrenador
+t,d,c,v,c,Miembro
+m,a,r,c,o,Miembro
+m,a,r,tt,o,Miembro
+w,e,r,t,f,Miembro
+r,e,d,dc,g,Miembro
